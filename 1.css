@@ -1,0 +1,16 @@
+.h{
+    background-image:url("dk.png");
+    background-size: cover;
+    padding: 0px;
+}
+.b{
+    color:red;
+    background-color: silver;
+    border-width: 10px;
+    border: solid salmon;
+    border-radius:25px;
+    text-align: center;
+    width: 150px; 
+    margin-left: 600px;
+
+}
